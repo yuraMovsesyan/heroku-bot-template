@@ -1,1 +1,1 @@
-# heroku-bot-template
+# heroku-bot-template for discord
